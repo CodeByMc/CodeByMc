@@ -1,9 +1,10 @@
 # Hi, I'm Murendeni 👋
 
-Final-year **BSc Information Technology** student at North-West University.
+A final-year BSc Information Technology student at North-West University with a strong interest in software development, data analytics, and building practical systems.
 
-I enjoy building practical systems, working with data, and learning software development.  
-Previously worked in healthcare as a Dietician before moving into IT.
+I enjoy solving problems through code, working with databases, and turning data into useful insights. My academic work includes projects in system analysis, database design, and application development.
+
+Before moving into IT, I worked in healthcare as a Dietician. That background strengthened my analytical thinking, attention to detail, and ability to work with real-world data and people.
 
 ---
 

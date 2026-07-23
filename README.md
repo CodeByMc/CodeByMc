@@ -9,10 +9,10 @@ Previously worked in healthcare as a Dietician before moving into IT.
 
 ### 🔗 Links
 
-[![Virtual CV](https://img.shields.io/badge/Virtual_CV-Live_Site-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codebymc.github.io/CV-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByMc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murendeni-netshiukhwi-990134319)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murendeni.colbert@gmail.com)
+[![Virtual CV](https://img.shields.io/badge/Virtual_CV-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codebymc.github.io/CV-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByMc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murendeni-netshiukhwi-990134319)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murendeni.colbert@gmail.com)
 ---
 
 ### 🛠️ Tech Stack

@@ -9,10 +9,10 @@ Previously worked in healthcare as a Dietician before moving into IT.
 
 ### 🔗 Links
 
-[![Virtual CV](https://img.shields.io/badge/Portfolio-Live_Site-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white)]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murendeni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]
-
+[![Portfolio]](https://codebymc.github.io/CV-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-CodeByMc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByMc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murendeni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murendeni-netshiukhwi-990134319)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murendeni.colbert@gmail.com)
 ---
 
 ### 🛠️ Tech Stack

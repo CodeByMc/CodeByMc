@@ -1,6 +1,6 @@
 # Hi, I'm Murendeni 👋
 
-A final-year **BSc Information Technology** student at North-West University.
+Final-year **BSc Information Technology** student at North-West University.
 
 I enjoy building practical systems, working with data, and learning software development.  
 Previously worked in healthcare as a Dietician before moving into IT.
@@ -41,7 +41,7 @@ Previously worked in healthcare as a Dietician before moving into IT.
 
 ### 📈 GitHub Stats
 
-![Murendeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByMc&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByMc&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMc&layout=compact&theme=default)
 
